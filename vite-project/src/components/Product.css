@@ -1,0 +1,23 @@
+.product-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px; /* Adjust this value as needed to limit the image height */
+    object-fit: contain; /* Ensure the image maintains its aspect ratio */
+  }
+  
+  .product-container {
+    font-size: 0.9rem; /* Adjust this value to decrease the overall size of product details */
+  }
+  
+  .product-container h1 {
+    font-size: 2rem; /* Adjust this value to decrease the size of the product title */
+  }
+  
+  .product-container h3 {
+    font-size: 1.5rem; /* Adjust this value to decrease the size of the product price */
+  }
+  
+  .product-container p {
+    font-size: 1rem; /* Adjust this value to decrease the size of the product description and rating */
+  }
+  

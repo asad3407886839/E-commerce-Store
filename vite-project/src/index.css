@@ -1,0 +1,17 @@
+.product-image {
+    transition: all 0.3s ease;
+}
+
+.product-image:hover {
+    border-radius: 12px;
+}
+
+.product-title {
+    transition: all 0.3s ease;
+}
+
+.product-title:hover {
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 5px;
+}

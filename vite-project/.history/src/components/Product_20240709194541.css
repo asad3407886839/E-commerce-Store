@@ -1,0 +1,7 @@
+.product-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 500px; /* Adjust this value as needed to limit the image height */
+    object-fit: contain; /* Ensure the image maintains its aspect ratio */
+  }
+  
